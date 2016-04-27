@@ -21,7 +21,7 @@ module.exports = function (grunt) {
           ],
         },
         files: {
-          'dist/datalayer.js': ['lib/datalayer.js']
+          'dist/service.js': ['lib/service.js']
         }
       }
     },
@@ -32,7 +32,7 @@ module.exports = function (grunt) {
       },
       distMin: {
         files: {
-          'dist/datalayer.min.js': ['dist/datalayer.js']
+          'dist/service.min.js': ['dist/service.js']
         }
       },
     },

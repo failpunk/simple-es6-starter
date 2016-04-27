@@ -1,26 +1,14 @@
 {
-  "name": "datalayer-js",
+  "name": "simple-es6-starter",
   "version": "0.1.0",
-  "description": "StudyMode Datalayer Abstraction",
-  "private": true,
+  "description": "",
   "main": "Gruntfile.js",
-  "scripts": {
-  },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:repomode/datalayer-js.git"
+    "url": "git@github.com:failpunk/simple-es6-starter.git"
   },
-  "contributors": [
-    {
-      "name": "Jerry Hsu",
-      "email": "jerry@studymode.com"
-    },
-    {
-      "name": "Justin Vencel",
-      "email": "justin@studymode.com"
-    }
-  ],
-  "license": "ISC",
+  "author": "Justin Vencel <failpunk@gmail.com>",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "babelify": "^6.2.0",

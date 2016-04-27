@@ -1,6 +1,5 @@
-# Datalayer.JS
-StudyMode Datalayer Abstraction
-
+# Simple ES6 Starter Kit
+A simple starter kit to get you started developing a simple ES6 module.
 
 #### Install
 ```
