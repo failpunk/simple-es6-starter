@@ -4,7 +4,8 @@
   "description": "StudyMode Datalayer Abstraction",
   "private": true,
   "main": "Gruntfile.js",
-  "scripts": {},
+  "scripts": {
+  },
   "repository": {
     "type": "git",
     "url": "git@bitbucket.org:repomode/datalayer-js.git"

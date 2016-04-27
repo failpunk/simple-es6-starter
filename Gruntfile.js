@@ -61,7 +61,7 @@ module.exports = function (grunt) {
   // build task - when you say 'grunt build'
   grunt.registerTask(
       'build',
-      'Transpile and Build JS, copy templates',
+      'Transpile and Build JS',
       ['browserify']
   );
 
