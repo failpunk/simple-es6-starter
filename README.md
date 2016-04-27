@@ -29,6 +29,8 @@ $ grunt build-prod
 ```
 
 #### Versioning
+Bumps the package.json version, creates a matching tag, and commits the changes.
+ 
 ```
 $ npm version [major | minor | patch]
 $ git push --follow-tags
